@@ -1,0 +1,508 @@
+=====[ Unsorted ]=====
+#EXTINF:0 logo=https://goo.gl/4YBvxY" group-title="INFORMAÃ‡Ã•ES: CLIQUE AQUI! , LISTA DO RODRIGOU
+http://0.0.0.0
+#EXTINF:0 logo=http://1.bp.blogspot.com/-85t5_lKbgAM/UrI2mxMpjaI/AAAAAAAAGo4/_NN0FF8Dh4E/s320/pedido.png" group-title="INFORMAÃ‡Ã•ES: CLIQUE AQUI! , PEDIDOS DE FILMES E SERIES PEÃ‡A NA PÃGINA!
+http://0.0.0.0
+#EXTINF:0 logo=http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="INFORMAÃ‡Ã•ES: CLIQUE AQUI! , bit.ly/RODRIGOUPAGINA
+http://0.0.0.0
+#EXTINF:0 logo=https://image.freepik.com/free-vector/cash-payment_23-2147511454.jpg" group-title="FAÃ‡A UMA DOAÃ‡ÃƒO! PARA CONTINUAR COM ESSE TRABALHO , FAÃ‡A UMA DOAÃ‡ÃƒO! PARA CONTINUAR COM ESSE TRABALHO
+http://0.0.0.0
+#EXTINF:0 logo=http://www.listaiptvvip.com/wp-content/uploads/2017/12/lista-iptv-vip.png" group-title="MELHOR LISTA DE CANAIS , QUER UM LISTA DE CANAIS COMPLETA ? SO ENTRAR EM CONTATO COM WWW.LISTAIPTVVIP.COM OU NO WHATS
+http://0.0.0.0
+#EXTINF:0 logo=http://www.listaiptvvip.com/wp-content/uploads/2017/12/lista-iptv-vip.png" group-title="MELHOR LISTA DE CANAIS , WHATS (19) 998509928
+http://0.0.0.0
+#EXTINF:0 logo=http://3.bp.blogspot.com/-IKaMFV6xsDU/UANlas_PkdI/AAAAAAAADYk/UvrJtbNJQrE/s1600/TrailerLogo.png" group-title="TRAILERS , TRAILERS
+http://0.0.0.0
+#EXTINF:0 logo=https://goo.gl/LAAfch" group-title="TRAILERS , A CRUCIFICAÇÃO: DEMÔNIOS SÃO REAIS (3 DE MAIO DE 2018)
+https://lh3.googleusercontent.com/yQSZtghYozAojhEzha869INiHmH9TQ8uMopvKu5AtIlsq9HUirldWAZtZXV_1O81W6ZlUZj5ZYEeP1zy9Q=m22
+#EXTINF:0 logo=https://goo.gl/ZQ3BMB" group-title="TRAILERS , A ESCOLHA PERFEITA 3 (8 DE MARÇO 2018)
+https://lh3.googleusercontent.com/X7SMOYYA9qrh61SqzG5vMH0Ctour1IChi4IslkrNZwRjVjkbwCM5BanRUs3i137Xjmlj7U87BjKYRlr4nQ=m22
+#EXTINF:0 logo=https://goo.gl/NcC8gV" group-title="TRAILERS , ALFA (8 DE MARÇO 2018)
+https://lh3.googleusercontent.com/VtO-8BPUzZnWcIDGp-X2PiWd4Znp0g7tiU7xbyn6IUn36Mdr_c3hRlABCUqQMRoKVXmFRCnJRTILeH0cFA=m22
+#EXTINF:0 logo=https://goo.gl/7LzRSh" group-title="TRAILERS , ALITA: ANJO DE COMBATE
+https://lh3.googleusercontent.com/mIijNJuj5YEtHj-0eEVab94G7cU_EIhAWBpXCyIZ3T7tBe27cq3jgPh75Yss6TMOSF3FeZcRh8NNEqW5qA=m22
+#EXTINF:0 logo=https://goo.gl/k1TEKN" group-title="TRAILERS , A MALDIÇÃO DA CASA WHINCHESTER
+https://lh3.googleusercontent.com/Kj7ml1g2F_f51oB3CkQ1c3MRbIaX_3k91Zk9DXAfBYQQufCJRuoH2n_32jlUF3UEge3ZTI7CzGhCItQM8Q=m22
+#EXTINF:0 logo=https://goo.gl/KUC4WR" group-title="TRAILERS , A NOITE DO JOGO (10 DE MAIO 2018)
+https://lh3.googleusercontent.com/JyWhTGe3wCdyjXH9C1YTLFw5_yUEZexdOfJ7r7Y2sG1D3AtTZs19v-ftRh-girAj39rddBh7cWwHru3pdw=m22
+#EXTINF:0 logo=https://goo.gl/t5atfM" group-title="TRAILERS , A NOIVA (2 DE NOVEMBRO 2017)
+https://lh3.googleusercontent.com/jbOegXR5PW4GBx2fyGqHkzr_HvgIA1bf9PUjO3mwcloCdRciLtHMtLowMD-_WVAK7YBO30AefM8U44JaIQ=m22
+#EXTINF:0 logo=https://goo.gl/SNXsXP" group-title="TRAILERS , ARRANHA-CÉU: CORAGEM SEM LIMITE
+https://lh3.googleusercontent.com/qQ3CXWmGOZgAVUcc8WSoAF8jiIUGgknikddUDy92JDAvpB70Wk7-F8rQ_4nTXqjx32IgJy4RFptEyPRqfg=m22
+#EXTINF:0 logo=https://goo.gl/Wv5bjg" group-title="TRAILERS , CINQUENTA TONS DE LIBERDADE (9 DE FEVEREIRO 2018)
+https://lh3.googleusercontent.com/pEqLrdz8ELrsRR8WQlGUu3jAdPjgM1r7X4uHTNGxrIMj3oSfb5i7Bl_ljxFW9mBpHFg3LTJOt1qQEkTYBA=m22
+#EXTINF:0 logo=https://goo.gl/iLWg7g" group-title="TRAILERS , CÍRCULO DE FOGO 2: A REVOLTA (1 DE MARÇO 2018)
+https://lh3.googleusercontent.com/jOEIwULYGVIJeW-bLJlsfIUJSal0SWPYFkPWkkMy5LMKtpNI73h-JbEcYr0zZZtyTzHzg-aP_KCdcOvIDQ=m22
+#EXTINF:0 logo=https://goo.gl/VmK9NQ" group-title="TRAILERS , DEADPOOL 2 (DUB)
+http://bit.ly/TRDPL2DUB
+#EXTINF:0 logo=https://goo.gl/VmK9NQ" group-title="TRAILERS , DEADPOOL 2 (LEG)
+http://bit.ly/TRDPL2LEG
+#EXTINF:0 logo=https://goo.gl/aKucPg" group-title="TRAILERS , DUDA E OS GNOMOS (7 DE DEZEMBRO 2017)
+https://lh3.googleusercontent.com/7EauHfm6s9-KkFbaKOIXPzH3lv6rJLEvPkHNeOoKp4aS6Gu3HsV2gF5Gm9UFWLRe2nwOaZ4zAx9evJAiTQ=m22
+#EXTINF:0 logo=https://goo.gl/djweMP" group-title="TRAILERS , EU SÓ POSSO IMAGINAR
+https://lh3.googleusercontent.com/uNnVWdduyeSP3PfLTc_n52j1mkWWYwvwRJ0WDgNuRV-lCsKMTAuueyYdJQCFZlgmNl2_PRG3JyNNGHaD4w=m22
+#EXTINF:0 logo=https://goo.gl/thTfhF" group-title="TRAILERS , HAN SOLO: UMA HISTÓRIA STAR WARS
+https://lh3.googleusercontent.com/3bJm9Ia1UaBIiivFwUmf011i7-VuFAD3Jn_OfY7ABW3QyOL83aKGfJTFAWwWmi2TyZWMGyXYTt2xNoYXIw=m22
+#EXTINF:0 logo=https://goo.gl/a82ryY" group-title="TRAILERS , HOMEM-FORMIGA E A VESPA
+https://lh3.googleusercontent.com/S3Mqonl5IB39EEJoJQJr7cWxhv9rEbH7Ya6CT_O84s66REGT-Iryoiirxw8OL9yBxgDbd6TICIquxuwylg=m22
+#EXTINF:0 logo=https://goo.gl/rDmS1R" group-title="TRAILERS , HOTEL TRANSILVÂNIA 3: FÉRIAS MONSTRUOSAS (12 DE JULHO 2018)
+https://lh3.googleusercontent.com/4Ixt4ZgBn-VDuOxbjsPDpDZos-dUxaH5rRe2SPRaCX4jG1UL2tmBL8kivzUVG_7pPxj5_g_KSp9m9ZAH5w=m22
+#EXTINF:0 logo=https://goo.gl/rnCYXs" group-title="TRAILERS , JURASSIC WORLD 2: REINO AMEAÇADO
+https://lh3.googleusercontent.com/PYQCLYOHzlxh1B-_jlzoX5ACn5VSLEMv-83SN2mJI_T655D2U8F90tJb-z-U1CmcCsttXwnt7IqCzQ8ySQ=m22
+#EXTINF:0 logo=https://goo.gl/GimecF" group-title="TRAILERS , MAMMA MIA! 2: LÁ VAMOS NÓS DE NOVO
+https://lh3.googleusercontent.com/rkxIdA51SUH5MOz1vuhxMH-_qKpetzCT9aqqWZb-mYY4u0sXSj0U-HA4V_2xCzX9o9Pvn9BfKTlUbPu97w=m22
+#EXTINF:0 logo=https://goo.gl/WsxMbJ" group-title="TRAILERS , MARIA MADALENA
+https://lh3.googleusercontent.com/tddVqhRYY2ZXmhLH28pvXV68y5aQnNUQRj91OABs2RIdeZTE6KwXC_LLVoFPDDwn3OC1fOSDl5NGlDiPKg=m22
+#EXTINF:0 logo=https://goo.gl/Bsg2jn" group-title="TRAILERS , NADA A PERDER
+https://lh3.googleusercontent.com/FwBTjO0FQVTkmUCqj8rEYCZkzeyD8LPy6uTRhXwA-fDOLg6Jd61Crre6SdiWXPltn2L_ARdzsc0HZz_x8Q=m22
+#EXTINF:0 logo=https://goo.gl/965ALT" group-title="TRAILERS , NÃO VAI DAR
+https://lh3.googleusercontent.com/_2TxOtL2i2X2qYJ3lT9l7lx1V2_woMe_jasnkRZmEz5yM10-lsxv7AynolsmL9E0z-TCr8YRLo_Rj5l_1g=m22
+#EXTINF:0 logo=https://goo.gl/MGy2XY" group-title="TRAILERS , O HOMEM DAS CARVERNAS
+https://lh3.googleusercontent.com/eyzyUVEGCt8Rl0u6Sg6uffFdqra_wcfm08r8Kl7Oo2B16ycRJ572lpcwPfERlucmo67Yv-bklHM_pjgWbw=m22
+#EXTINF:0 logo=https://goo.gl/7c87e3" group-title="TRAILERS , OS FAROFEIROS
+https://lh3.googleusercontent.com/RmhJO2KlrWJ1s-Ht-cl6MRNpnFYcloz_hGv11KZ6pXSbuLdNqm0VxscA3VUHuISzZYueVBFUG_sljq--sg=m22
+#EXTINF:0 logo=https://goo.gl/ir4vab" group-title="TRAILERS , OS NOVOS MUTANTES (12 DE ABRIL 2018)
+https://lh3.googleusercontent.com/Rn_mvnQzl_MDQoScDwmVXXNFlvzXekyCPCRnr7fVkUDgjT48prPy2JmvzjfaJouO2Ng5yd5paDrfG-_y3w=m22
+#EXTINF:0 logo=https://goo.gl/SKa8G6" group-title="TRAILERS , PANTERA NEGRA (15 DE FEVEREIRO 2018)
+https://lh3.googleusercontent.com/uoCNr_LsPO5YpewTsJE4HkZPaIZG0noKREe2mmIuXpmc8Fr4OKOmQTsl1-I8vPiD_mUJ-bOR4AE13215_w=m22
+#EXTINF:0 logo=https://goo.gl/nahCJN" group-title="TRAILERS , SICÁRIO 2: SOLDADO
+https://lh3.googleusercontent.com/qiMK3PGHebH2UoqjnktjciGUQPl-WqYZs0Y8LAGGUc7ZUchpsa3E4jIURqFG1INUzqwqKG_Yul9iETBGHA=m22
+#EXTINF:0 logo=https://goo.gl/WE3SXY" group-title="TRAILERS , SLENDER MAN: PESADELO SEM ROSTO
+https://lh3.googleusercontent.com/naAqmVsw1jeb9JSudqXT5sPnZym7aEmpn1WROmzbAdxY_6glPkAH_BaiHXRiPBl6Ir4Sy_GjytrD3IVh-A=m22
+#EXTINF:0 logo=https://goo.gl/YaAWjR" group-title="TRAILERS , TOMB RAIDER: A ORIGEM (15 DE MARÇO 2018)
+https://lh3.googleusercontent.com/zqo1WtPRRRCnqCvFaPFigbKj-FSfBQ94ywRBfDM7tpcI08jZUZRP8wucq3I-DtGTD5VlDiRNuM42vDUeWQ=m22
+#EXTINF:0 logo=https://goo.gl/kwaEfN" group-title="TRAILERS , VENOM
+https://lh3.googleusercontent.com/Ri_Mlb7lCao7dUxwtW1364gZUh5X_0_1Rpq2nTTm1k7qjx2KI9-1HuHaJpGKQNS_NsYF8bJDRw1xCpmj-w=m22
+#EXTINF:0 logo=https://goo.gl/Pa997t" group-title="TRAILERS , VINGADORES 3: GUERRA INFINITA (26 DE ABRIL 2018)
+http://bit.ly/TRV3GII
+#EXTINF:0 logo=https://goo.gl/wC7Gru" group-title="FILMES , FILMES
+http://0.0.0.0
+#EXTINF:0 logo=https://goo.gl/NJEzeY" group-title="2018 , MAZE RUNNER 3: A CURA MORTAL (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/MAZERUNNERLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/qMMdq7" group-title="2018 , FALA SÉRIO MÃE! (NAC)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/FALASERIEMAE-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/tKr24o" group-title="2018 , CONSPIRAÇÃO TERRORISTA (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/CONSPIRACAOTERRORISTADUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/tKr24o" group-title="2018 , CONSPIRAÇÃO TERRORISTA (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/CONSPIRACAOTERRORISTALEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/F4ci7v" group-title="2018 , PERDA TOTAL (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/PERDATORALDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/F4ci7v" group-title="2018 , PERDA TOTAL (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/PERDATORALLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/xfZtWm" group-title="2018 , BENJI (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/BENJI2018DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/Jzj2ww" group-title="2018 , SOBRENATURAL 4: A ÚLTIMA CHAVE (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/INSIDIOUS4LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/KWPp68" group-title="2018 , CORRIDA MORTAL 4 (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/DEATHRACE4-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/yEDFYo" group-title="2018 , PADDINGTON 2 (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/PADDINGTON2-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/kR2prc" group-title="2018 , LEGO: SUPER-HERÓIS - THE  FLASH (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/LEGOTHEFLASHLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/s1RmAv" group-title="2018 , ANIQUILAÇÃO (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/ANIQUILACAODUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/Gh8nGb" group-title="2018 , BRAVEN (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/BRAVEN18LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/VpZgsc" group-title="2018 , UMA FLORESTA MUITO LOUCA (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/FLORESTALOUCADUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/Fw9SjU" group-title="2018 , STAR WARS 8: OS ÚLTIMOS JEDI (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/STARWARS8DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/Fw9SjU" group-title="2018 , STAR WARS 8: OS ÚLTIMOS JEDI (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/STARWARS8LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/LRFFpa" group-title="2018 , DÍVIDA PERIGOSA (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/THEOUTSIDE2018LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/SN8Pc2" group-title="2018 , JUMANJI: BEM-VINDO A SELVA (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/JUMANJI2018DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/SN8Pc2" group-title="2018 , JUMANJI: BEM-VINDO A SELVA (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/JUMANJI2018LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/pVwTdk" group-title="2018 , EU TONYA (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/ITONYALEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/D342WX" group-title="2018 , ME CHAME PELO SEU NOME (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/MECHAMEPELOSEUNOMEDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/D342WX" group-title="2018 , ME CHAME PELO SEU NOME (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/CALLMEBYNAME2018LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/TVdGjy" group-title="2018 , O REI DO SHOW (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/REIDANOITELEG2017-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/2LKgT9" group-title="2018 , COM AMOR - VAN GOGH (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/VANGOGHDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/2LKgT9" group-title="2018 , COM AMOR - VAN GOGH (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/VANGOGHLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/r6TXxg" group-title="2018 , A ESTRELA DE BELÉM (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/BELEM18-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/233c9e" group-title="2018 , VERÓNICA (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/VERONICA2018DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/233c9e" group-title="2018 , VERÓNICA (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/VERONICA2018LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/gStQ76" group-title="2018 , GIGANTE (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/GIGANTE2018LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/BxWajT" group-title="2018 , LADY BIRD: A HORA DE VOAR (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/LADYBIRDLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/nmtyhg" group-title="2018 , OS PARÇAS (NAC)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/OSPARCAS2018-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/8gkJt5" group-title="2018 , A FORMA DA ÁGUA (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/FORMADAAGUALEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/qNK3AB" group-title="2018 , JOGOS MORTAIS 8: JIGSAW (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/JIGSAW2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/qNK3AB" group-title="2018 , JOGOS MORTAIS 8: JIGSAW (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/JIGSAW2017LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/TTg8GX" group-title="2018 , O TOURO FERDINANDO (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/FERDINANDOLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/xiUAS4" group-title="2018 , ESPELHO (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/LOOKINGGLASSLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/5MNeJg" group-title="2018 , MUDO (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/MUTEDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/5MNeJg" group-title="2018 , MUDO (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/MUTELEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/5P128M" group-title="2018 , DOENTES DE AMOR (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/BIGSICKDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/5P128M" group-title="2018 , DOENTES DE AMOR (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/BIGSICKLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/RVavua" group-title="2018 , PEQUENA GRANDE VIDA (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/PEQUENALIFEDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/RVavua" group-title="2018 , PEQUENA GRANDE VIDA (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/PEQUENAGRANDEVIDA2018LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/VFv3TC" group-title="2018 , EXTRAORDINÁRIO (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/EXTRAORDINARIODUB2018-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/VFv3TC" group-title="2018 , EXTRAORDINÁRIO (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/WONDERR2018-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/HPK14G" group-title="2018 , THOR 3: RAGNAROK (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/THOR2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/HPK14G" group-title="2018 , THOR 3: RAGNAROK (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/THORRLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/G4AgcF" group-title="2018 , TRÊS ANÚNCIOS PARA UM CRIME (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/TRESANUNCIOS2018LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/BBject" group-title="2018 , HACKER: TODO CRIME TEM UM INÍCIO (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/HACKERDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/WeZ5Bm" group-title="2018 , FULLMETAL ALCHEMIST (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/FULLMETALDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/WeZ5Bm" group-title="2018 , FULLMETAL ALCHEMIST (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/FULLMETALLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/cLTazL" group-title="2018 , GOSTO SE DISCUTE (NAC)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/G0ST0S3DISCUT3-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/B9ovi2" group-title="2018 , LOUCURAS EM FAMÍLIA (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/LOUCURAS2018DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/tqYgpE" group-title="2018 , ESPIÃO POR ACASO (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/ESPIAO2018LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/KPKTWC" group-title="2018 , O DESTINO DE UMA NAÇÃO (LEG)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/DARKEST2017LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/9WT2i7" group-title="2018 , PAI EM DOSE DUPLA 2 (DUB)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/PAIDOSEDUPLA2DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/8SZ9bv" group-title="2018 , AMERICAN SATAN (LEG - 2018)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/AMERICANSATAN2017LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/wa1G6Y" group-title="2018 , ASSASSINATO NO EXPRESSO DO ORIENTE (LEG - 2018)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/MUDERONTHEEXPRESS2017LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/gauQ2M" group-title="2018 , THE POST: A GUERRA SECRETA (LEG - 2018)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/THEPOST2017LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/kSHCmZ" group-title="2018 , O PARADOXO CLOVERFIELD (2018)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/CLOVERFIELD2018DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/kSHCmZ" group-title="2018 , O PARADOXO CLOVERFIELD (LEG - 2018)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/CLOVERFIELD2018LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/6KjWmc" group-title="2018 , BATMAN: GOTHAM BY GASLIGHT (2018)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/BATMANBYGASLIGHTDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/6KjWmc" group-title="2018 , BATMAN: GOTHAM BY GASLIGHT (LEG - 2018)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/GOTHAMGASLIGHT18LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/MKhgfn" group-title="2018 , PICA-PAU: O FILME (2018)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/PICAPAU2018DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/Tx1iS3" group-title="2018 , VOLDEMORT: A ORIGEM DO HERDEIRO (LEG - 2018)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/VOLDEMORT2018-BAIXO.mp4
+#EXTINF:0 logo=https://goo.gl/w2aLRp" group-title="2018 , A MORTE TE DÁ PARABÉNS (2018)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/HAPPYDEATHDDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/w2aLRp" group-title="2018 , A MORTE TE DÁ PARABÉNS (LEG - 2018)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/HAPPYDEATHDDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/FofzKa" group-title="2018 , SCOOBY-DOO! & BATMAN: OS BRAVOS E DESTEMIDOS (2018)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/SCOOBYEBATMANDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/QVdDg8" group-title="LANÇAMENTOS , BLADE RUNNER 2049 (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/BR2049LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/g7hC8U" group-title="LANÇAMENTOS , LIGA DA JUSTIÇA (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2018/JUSTICALIGA2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/g7hC8U" group-title="LANÇAMENTOS , LIGA DA JUSTIÇA (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/LJ2017LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/XycLBp" group-title="LANÇAMENTOS , BRIGHT (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/BRIGHTDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/XycLBp" group-title="LANÇAMENTOS , BRIGHT (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/BRIGHTLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/eBLWrr" group-title="LANÇAMENTOS , ALÉM DA MORTE (2017)
+http://s.vstreaming.net/movies/alemdamorte-dub-720p.mp4
+#EXTINF:0 logo=https://goo.gl/vPMiqX" group-title="LANÇAMENTOS , OLAF EM UMA NOVA AVENTURA CONGELANTE DE FROZEN (2017)
+http://themediafire.club/ondemand/OlafNovaAventura%20Dublado.mp4
+#EXTINF:0 logo=https://goo.gl/Znekwh" group-title="LANÇAMENTOS , TROLLS: VAMOS FESTEJAR (2017)
+http://themediafire.club/ondemand/TrollsVamosFestejar%20Dublado.mp4
+#EXTINF:0 logo=https://goo.gl/caqMRm" group-title="LANÇAMENTOS , MÃE! (2017)
+http://s.vstreaming.net/movies/mom-dub-720p.mp4
+#EXTINF:0 logo=https://goo.gl/2BYAtG" group-title="LANÇAMENTOS , EM DEFESA DE CRISTO (2017)
+http://s.vstreaming.net/movies/ocasodecistro-dub-720p.mp4
+#EXTINF:0 logo=https://goo.gl/R2VysD" group-title="LANÇAMENTOS , BINGO: O REI DAS MANHÃS (2017)
+http://s.vstreaming.net/movies/bingo-dub-720p.mp4
+#EXTINF:0 logo=https://goo.gl/6bCavH" group-title="LANÇAMENTOS , COMO SE TORNAR O PIOR ALUNO DA ESCOLA (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/CSATOPADENACIONAL-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/DaHsb5" group-title="LANÇAMENTOS , POKÉMON - O FILME: EU ESCOLHO VOCÊ! (2017)
+http://s.vstreaming.net/movies/pokemon-dub-1080p.mp4
+#EXTINF:0 logo=https://goo.gl/DaHsb5" group-title="LANÇAMENTOS , POKÉMON - O FILME: EU ESCOLHO VOCÊ! (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/POLEMONKIMETALEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/14kmdB" group-title="LANÇAMENTOS , DUNKIRK (2017)
+http://s.vstreaming.net/movies/dunkirk-dub-720p.mp4
+#EXTINF:0 logo=https://goo.gl/14kmdB" group-title="LANÇAMENTOS , DUNKIRK (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/DUNKIRKLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/hTfR4f" group-title="LANÇAMENTOS , ESTA É A SUA MORTE: O SHOW (2017)
+http://s.vstreaming.net/movies/thisisyourdeath-dub-720p.mp4
+#EXTINF:0 logo=https://goo.gl/GmbE4c" group-title="LANÇAMENTOS , O QUE SERÁ DE NOZES 2 (2017)
+http://themediafire.club/ondemand/OQueSeraDeNozes2%20Dublado.mp4
+#EXTINF:0 logo=https://goo.gl/QcfoYY" group-title="LANÇAMENTOS , ATÔMICA (2017)
+http://s.vstreaming.net/movies/atomica-dub-720p.mp4
+#EXTINF:0 logo=https://goo.gl/LnmVQz" group-title="LANÇAMENTOS , 1922 (2017)
+http://s.vstreaming.net/movies/1922-dub-720p.mp4
+#EXTINF:0 logo=https://goo.gl/ia8sii" group-title="LANÇAMENTOS , POLÍCIA FEDERAL: A LEI É PARA TODOS (2017)
+http://s.vstreaming.net/movies/policiafederal-dub-720p.mp4
+#EXTINF:0 logo=https://goo.gl/WBvqd9" group-title="LANÇAMENTOS , KINGSMAN 2: O CÍRCULO DOURADO (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/KINGSMAN2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/WBvqd9" group-title="LANÇAMENTOS , KINGSMAN 2: O CÍRCULO DOURADO (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/KINGS2017LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/RxRW7c" group-title="LANÇAMENTOS , FEITO NA AMÉRICA (2017)
+http://s.vstreaming.net/movies/americanmade-dub-720p.mp4
+#EXTINF:0 logo=https://goo.gl/RxRW7c" group-title="LANÇAMENTOS , FEITO NA AMÉRICA (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/AM2017LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/jT4g64" group-title="LANÇAMENTOS , O ASSASSINO: O PRIMEIRO ALVO (2017)
+http://cloud.popfilmeshd.net/popfilmes/FILMES/DUBLADO/OAOPADUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/jT4g64" group-title="LANÇAMENTOS , O ASSASSINO: O PRIMEIRO ALVO (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/AMERICANA20177LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/pijCT8" group-title="LANÇAMENTOS , NA MIRA DO ATIRADOR (2017)
+http://themediafire.club/ondemand/NaMiraDoAtirador%20Dublado.mp4
+#EXTINF:0 logo=https://goo.gl/YpsR2d" group-title="LANÇAMENTOS , VALERIAN E A CIDADE DOS MIL PLANETAS (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/VCMDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/YpsR2d" group-title="LANÇAMENTOS , VALERIAN E A CIDADE DOS MIL PLANETAS (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/VCMLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/H82enj" group-title="LANÇAMENTOS , A NOITE É DELAS (2017)
+http://cdn.vstreaming.net/clients/mmfilmes/movies/noitedelas-dub-1080p.mp4
+#EXTINF:0 logo=https://goo.gl/Mkq7hu" group-title="LANÇAMENTOS , A AUTÓPSIA (2017)
+http://cdn.vstreaming.net/clients/mmfilmes/movies/autopsia-dub-720p.mp4
+#EXTINF:0 logo=https://goo.gl/PHAoq5" group-title="LANÇAMENTOS , IT: A COISA (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ITCOISADUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/PHAoq5" group-title="LANÇAMENTOS , IT: A COISA (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ACOISA2017LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/VKGhp3" group-title="LANÇAMENTOS , CARROS 3 (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/CARROS3DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/VKGhp3" group-title="LANÇAMENTOS , CARROS 3 (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/CARZ2017LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/MPHX5b" group-title="LANÇAMENTOS , ANNABELLE 2: A CRIAÇÃO DO MAL (2017)
+http://cdn.vstreaming.net/clients/mmfilmes/movies/anabelle-dub-720p.mp4
+#EXTINF:0 logo=https://goo.gl/aois71" group-title="LANÇAMENTOS , EMOJI - O FILME (2017)
+http://themediafire.club/ondemand/Emoji%20Bluray.mp4
+#EXTINF:0 logo=https://goo.gl/ZNmwra" group-title="LANÇAMENTOS , A TORRE NEGRA (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ATN2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/ZNmwra" group-title="LANÇAMENTOS , A TORRE NEGRA (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/TDT2017LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/YC6Ftq" group-title="LANÇAMENTOS , PLANETA DOS MACACOS 3: A GUERRA (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/PDMAG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/YC6Ftq" group-title="LANÇAMENTOS , PLANETA DOS MACACOS 3: A GUERRA (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/PLANETADOSMACACOS-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/5nRiuh" group-title="LANÇAMENTOS , O CULTO DE CHUCKY (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/OCDCDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/itzw5X" group-title="LANÇAMENTOS , HOMEM-ARANHA: DE VOLTA AO LAR (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ARANHAHOMEMDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/itzw5X" group-title="LANÇAMENTOS , HOMEM-ARANHA: DE VOLTA AO LAR (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ARANHAHOMEMLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/QRcN4H" group-title="LANÇAMENTOS , AMORES CANIBAIS (2017)
+http://cdn.vstreaming.net/clients/mmfilmes/movies/badbatch-dub-1080p.mp4
+#EXTINF:0 logo=https://goo.gl/G6JPyd" group-title="LANÇAMENTOS , EM RITMO DE FUGA (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ERDF2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/G6JPyd" group-title="LANÇAMENTOS , EM RITMO DE FUGA (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/RITMODEFUGA2017LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/fF6hXk" group-title="LANÇAMENTOS , OS MENINOS QUE ENGANAVAM NAZISTAS (2017)
+http://cdn.vstreaming.net/clients/mmfilmes/movies/meninosnazistas-dub-720.mp4
+#EXTINF:0 logo=https://goo.gl/Zj6Mnv" group-title="LANÇAMENTOS , DUPLA EXPLOSIVA (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/DUPLA2DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/Zj6Mnv" group-title="LANÇAMENTOS , DUPLA EXPLOSIVA (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/DUPLA2LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/EkHvj3" group-title="LANÇAMENTOS , TRANSFORMERS 5: O ÚLTIMO CAVALEIRO (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/CAVALEIRO2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/EkHvj3" group-title="LANÇAMENTOS , TRANSFORMERS 5: O ÚLTIMO CAVALEIRO (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/TRANSFORMERS2017LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/dPjxqV" group-title="LANÇAMENTOS , PIRATAS DO CARIBE 5: A VINGANÇA DE SALAZAR (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/PIRATAS5DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/dPjxqV" group-title="LANÇAMENTOS , PIRATAS DO CARIBE 5: A VINGANÇA DE SALAZAR (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/PIRATAS5LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/PLNwvT" group-title="LANÇAMENTOS , MEU MALVADO FAVORITO 3 (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/MMFDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/PLNwvT" group-title="LANÇAMENTOS , MEU MALVADO FAVORITO 3 (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/MALVADOLEG2017-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/uwFzvr" group-title="LANÇAMENTOS , DEATH NOTE (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/CARDERNODAMORTE2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/uwFzvr" group-title="LANÇAMENTOS , DEATH NOTE (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/MORTELEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/vTDstS" group-title="LANÇAMENTOS , BAYWATCH - S.O.S MALIBU (2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/BAYWATCHDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/vTDstS" group-title="LANÇAMENTOS , BAYWATCH - S.O.S MALIBU (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/BAYWATCHLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/XPufPq" group-title="LANÇAMENTOS , GUARDIÕES DA GALÁXIA VOL.2 (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/GUARDIOES2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/XPufPq" group-title="LANÇAMENTOS , GUARDIÕES DA GALÁXIA VOL.2 (LEG - 720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/GUARDIOESLEG2017-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/if6Byx" group-title="LANÇAMENTOS , Z - A CIDADE PERDIDA (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ZDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/if6Byx" group-title="LANÇAMENTOS , Z - A CIDADE PERDIDA (LEG - 720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ZLOSTCITYLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/KN6ufK" group-title="LANÇAMENTOS , O CÍRCULO (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/CIRCO2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/KN6ufK" group-title="LANÇAMENTOS , O CÍRCULO (LEG - 720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/OCIRCULOLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/Xiho23" group-title="LANÇAMENTOS , O VENDEDOR DE SONHOS (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/VENDEDORSONHOS-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/hinM5K" group-title="LANÇAMENTOS , FOME DE PODER (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/FOMED4PODERDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/TNvE5d" group-title="LANÇAMENTOS , NINGUÉM ENTRA - NINGUÉM SAI (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/NINGUEMENTRASAI2017-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/KLV5jG" group-title="LANÇAMENTOS , EU FICO LOKO (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/EUFICOLOUCO-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/dHokxP" group-title="LANÇAMENTOS , A MÚMIA (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/AMUMIA2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/dHokxP" group-title="LANÇAMENTOS , A MÚMIA (LEG - 720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/AMUMIA2017LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/bNRmSX" group-title="LANÇAMENTOS , REI ARTHUR: A LENDA DA ESPADA (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ARTHUR2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/CvTGf4" group-title="LANÇAMENTOS , ALIEN: COVENANT (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ALIEN2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/CvTGf4" group-title="LANÇAMENTOS , ALIEN: COVENANT (LEG - 720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/AL14EN2017LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/S31Gyo" group-title="LANÇAMENTOS , MULHER-MARAVILHA (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/W0M4N2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/S31Gyo" group-title="LANÇAMENTOS , MULHER-MARAVILHA (LEG - 720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/W0M4N2017LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/3DboRD" group-title="LANÇAMENTOS , OKJA (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/OKJA2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/d64YHF" group-title="LANÇAMENTOS , O ESPAÇO ENTRE NÓS (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ESPACOENTRENOSMOVIEDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/lcLcyN" group-title="LANÇAMENTOS , POWER RANGERS (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/POWER2017DUB2-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/HPZLGV" group-title="LANÇAMENTOS , O PODEROSO CHEFINHO (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/CHEFINHO2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/cuyacj" group-title="LANÇAMENTOS , VIDA (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/VIDAFILME2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/9qZ5QG" group-title="LANÇAMENTOS , T2 - TRAINSPOTTING 2: SEM LIMITES (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/T22017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/nfZJko" group-title="LANÇAMENTOS , VELOZES E FURIOSOS 8 (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/VELOZES2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/nfZJko" group-title="LANÇAMENTOS , VELOZES E FURIOSOS 8 (LEG - 720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/VELOZES2017LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/t4lOYN" group-title="LANÇAMENTOS , A BELA E A FERA (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/BELAFERA2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/EBxuqr" group-title="LANÇAMENTOS , JOHN WICK 2: UM NOVO DIA PARA MATAR (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/JOHNWICKDUBB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/zrgCNz" group-title="LANÇAMENTOS , A CABANA (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ACABANA2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/NSA94l" group-title="LANÇAMENTOS , LOGAN (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/L0G4NDUB2017-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/R8edzo" group-title="LANÇAMENTOS , KONG - A ILHA DA CAVEIRA (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/CAVEIRA2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/7z2tXF" group-title="LANÇAMENTOS , FRAGMENTADO (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/FRAGDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/eO4NtO" group-title="LANÇAMENTOS , A VIGILANTE DO AMANHÃ: GHOST IN THE SHELL (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/GHOSTDUB2017-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/x0wsW0" group-title="LANÇAMENTOS , A MALA E OS ERRANTES (720p)
+http://s.netcine.tv/netcine-bucket/filmes2017/TRAMPSDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/irTDrc" group-title="LANÇAMENTOS , OS GUARDIÕES (LEG - 720p)
+http://s.netcine.tv/netcine-bucket/filmes2017/TGRLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/Agh4ih" group-title="LANÇAMENTOS , CORRA! (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/CORRADUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/Agh4ih" group-title="LANÇAMENTOS , CORRA! (LEG -720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/GETOUTLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/ZiBgWH" group-title="LANÇAMENTOS , CINQUENTA TONS MAIS ESCUROS (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/CINZASDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/ZiBgWH" group-title="LANÇAMENTOS , CINQUENTA TONS MAIS ESCUROS (LEG - 720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/sobdemanda/netcine-bucket/filmes2016/CINZALEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/lr7sMF" group-title="LANÇAMENTOS , LA LA LAND - CANTANDO ESTAÇÕES (LEG - 720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/sobdemanda/netcine-bucket/filmes2017/LANDLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/t4lOYN" group-title="FILMES , A BELA E A FERA (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/BELAFERA2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/zrgCNz" group-title="FILMES , A CABANA (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ACABANA2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/CvTGf4" group-title="FILMES , ALIEN: COVENANT (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ALIEN2017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/CvTGf4" group-title="FILMES , ALIEN: COVENANT (LEG - 720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/AL14EN2017LEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/x0wsW0" group-title="FILMES , A MALA E OS ERRANTES (720p)
+http://s.netcine.tv/netcine-bucket/filmes2017/TRAMPSDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/gCYgRh" group-title="FILMES , HARRY POTTER: E A PEDRA FILOSOFAL (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/H4RRYP01DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/F4JZ5h" group-title="FILMES , HARRY POTTER 2: E A CÂMARA SECRETA (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/H4RRYP02DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/zNar4Q" group-title="FILMES , HARRY POTTER 3: E O PRISIONEIRO DE AZKABAN (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/H4RRYP03DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/AXG365" group-title="FILMES , HARRY POTTER 4: E O CÁLICE DE FOGO (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/H4RRYP04DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/LZde4S" group-title="FILMES , HARRY POTTER 5: E A ORDEM DA FÊNIX (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/H4RRYP05DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/5YVtX7" group-title="FILMES , HARRY POTTER 6: E O ENIGMA DO PRÍNCIPE (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/H4RRYP06DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/U6TPDT" group-title="FILMES , HARRY POTTER 7: E AS RELÍQUIAS DA MORTE - PARTE 1 (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/H4RRYP07DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/65UPYX" group-title="FILMES , HARRY POTTER 7: E AS RELÍQUIAS DA MORTE - PARTE 2 (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/H4RRYP08DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/RrENyP" group-title="FILMES , HOMEM DE FERRO
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/HOMEMFERRODUB001-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/ZsrKK1" group-title="FILMES , HOMEM DE FERRO 2
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/HOMEMFERRODUB02-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/SVteha" group-title="FILMES , HOMEM DE FERRO 3
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/HOMEMFERRODUB03-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/bDd8hD" group-title="FILMES , HOMEM FORMIGA
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ANTMANDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/NSA94l" group-title="FILMES , LOGAN (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/L0G4NDUB2017-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/D0yO6D" group-title="FILMES , LUCY (360p)
+https://archive.org/download/Lucy_Movie/Lucy.mp4
+#EXTINF:0 logo=https://goo.gl/yJWG3M" group-title="FILMES , MAZE RUNNER: CORRER OU MORRER (1080p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/MAZERUNNERDUB02-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/9zJjTU" group-title="FILMES , MAZE RUNNER 2: PROVA DE FOGO (1080p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/MAZERUNNERDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/BRRXda" group-title="FILMES , MEU MALVADO FAVORITO (2010)
+https://lh3.googleusercontent.com/1mZUT2Bo367y6plGwBg9TCo19sUOQpyc-nv5E5TtB8Z_KWsYcjMESSfKdvVPjov3bH9I4ArY9_Xv4FiA=m22
+#EXTINF:0 logo=https://goo.gl/PLNwvT" group-title="FILMES , MEU MALVADO FAVORITO 3 (LEG - 2017)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/MALVADOLEG2017-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/KN6ufK" group-title="FILMES , O CÍRCULO (LEG - 720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/OCIRCULOLEG-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/d64YHF" group-title="FILMES , O ESPAÇO ENTRE NÓS (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/ESPACOENTRENOSMOVIEDUB-ALTO.mp4
+#EXTINF:0 logo=http://br.web.img3.acsta.net/medias/nmedia/18/92/91/32/20224832.jpg" group-title="FILMES , O SENHOR DOS ANÉIS: A SOCIEDADE DO ANEL (1080p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/S4NH0R4NEYS01DUB-ALTO.mp4
+#EXTINF:0 logo=http://static.fnac-static.com/multimedia/PT/images_produits/PT/ZoomPE/5/2/5/5601072034525.jpg" group-title="FILMES , O SENHOR DOS ANÉIS 2: AS DUAS TORRES (1080p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/S4NH0R4NEYS02DUB-ALTO.mp4
+#EXTINF:0 logo=http://br.web.img2.acsta.net/medias/nmedia/18/92/91/47/20224867.jpg" group-title="FILMES , O SENHOR DOS ANÉIS 3: O RETORNO DO REI (1080p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/S4NH0R4NEYS03DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/wqbXD6" group-title="FILMES , OS VINGADORES
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/VINGADORESDUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/BCoJHN" group-title="FILMES , VINGADORES 2: ERA DE ULTRON
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/VINGADORESDUB02-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/Xiho23" group-title="FILMES , O VENDEDOR DE SONHOS (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/VENDEDORSONHOS-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/Md6e8j" group-title="FILMES , PIRATAS DO CARIBE: A MALDIÇÃO DO PÉROLA NEGRA (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/PIRATASC01DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/sa9fZ8" group-title="FILMES , PIRATAS DO CARIBE 2: O BAÚ DA MORTE (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/PIRATASC02DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/Ak1ntB" group-title="FILMES , PIRATAS DO CARIBE 3: NO FIM DO MUNDO (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/PIRATASC03DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/c3vnvq" group-title="FILMES , PIRATAS DO CARIBE 4: NAVEGANDO EM ÁGUAS MISTERIOSAS (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/PIRATASC04DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/PqmxrG" group-title="FILMES , STAR WARS - EPISÓDIO I: A AMEAÇA FANTASMA (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/STARWARS01DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/dovZ2C" group-title="FILMES , STAR WARS - EPISÓDIO II: ATAQUE DOS CLONES (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/STARWARS02DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/Eecrai" group-title="FILMES , STAR WARS - EPISÓDIO III: A VINGANÇA DOS SITH (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/STARWARS03DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/GMAsmK" group-title="FILMES , STAR WARS - EPISÓDIO IV: UMA NOVA ESPERANÇA (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/STARWARS04DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/4sJT4u" group-title="FILMES , STAR WARS - EPISÓDIO V: O IMPÉRIO CONTRA ATACA (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/STARWARS05DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/ou6KCg" group-title="FILMES , STAR WARS - EPISÓDIO VI: O RETORNO DE JEDI (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/STARWARS06DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/ar6ibS" group-title="FILMES , STAR WARS - EPISÓDIO VII: O DESPERTAR DA FORÇA (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/STARWARS07DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/t1pi47" group-title="FILMES , ROGUE ONE: UMA HISTÓRIA STAR WARS (1080p)
+http://cdn4.ntcdn.us/content/sobdemanda/netcine-bucket/filmes2016/ROGUEDUBB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/9qZ5QG" group-title="FILMES , T2 - TRAINSPOTTING 2: SEM LIMITES (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/T22017DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/7SkS2w" group-title="FILMES , THOR
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/THOR01DUB-ALTO.mp4
+#EXTINF:0 logo=https://goo.gl/cuyacj" group-title="FILMES , VIDA (720p)
+http://d24nzk5e3n7cvo.cloudfront.net/content/httpdelivery/filmes2017/VIDAFILME2017DUB-ALTO.mp4
+=====[ Juh ]=====
+#EXTINF:0 logo=https://image.tmdb.org/t/p/w342/chMOGs0qNQyIeJnz7ZN9MJOA18T.jpg ,mad max
+http://185.38.12.38/sec/1523708051/363538385cda605ec6f7b1740f44a6f140d21fa351c1700f/ivs/7f/06/d16a897ea317/hls/tracks-3,4/index.m3u8
