@@ -1,58 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_Pu4QmVBO8sw/S8sZTScT85I/AAAAAAAAADw/FNIJ1mDcI5E/s320/Piratas+do+Caribe.jpg" group-title="FILMES",PIRATAS 1
-http://www.filmes2k.info/01/Piratas-do-Caribe-1_x264_moovd.mp4
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_5EE1wK9F0qs/TC2qbUGyx8I/AAAAAAAACKE/hbJlAaP69_4/s1600/Piratas.do.Caribe.2.O.Bau.da.Morte.DVDRIP.Xvid.Dublado.JPG" group-title="FILMES",piratas2
-http://www.filmes2k.info/01/Piratas-do-Caribe-2_x264_moovd.mp4
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_aX7VSRMlQI4/TD9PiTQfD7I/AAAAAAAADlQ/SytzOBZLthE/s400/Piratas+do+Caribe+3+-+No+Fim+do+Mundo.jpg" group-title="FILMES",piratas3
-http://www.filmes2k.info/02/Piratas-do-Caribe-3_x264_moovd.mp4
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-2pCEkr60gmA/TaAhSktLOMI/AAAAAAAAI_o/-Nr1y3xdfo8/s400/piratas+-+novo+poster.jpg" group-title="FILMES",piratas 4
-http://www.filmes2k.info/01/Piratas-do-Caribe-4_moovd.mp4
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_RTpP_HQ7pA/Ut0mHTiZEbI/AAAAAAAAHf8/Wj0oAfCT-2E/s1600/O+Senhor+dos+Aneis+anima%C3%A7ao.jpg" group-title="FILMES",raridade o senhor dos aneis
-http://d4.neodrive.co/stream/5STP1TY3PLTP/fff7d8f3b6398b08ee2373a40196c380.mp4?st=Ef7Q4TxTMTgLuuLZTv0Rhg
-
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-XuY-kNQCOdM/TbwVnbSlqAI/AAAAAAAAAiQ/LOu_6jQQ_XU/s400/o%2B%2Bsenhor%2Bdos%2Baneis%2Ba%2Bsociedade%2Bdo%2Banel%2Bposter.jpg" group-title="FILMES",O Senhor dos Anéis – A Sociedade do Anel
-http://d4.neodrive.co/stream/1T5SPL5SPLB9/e4588de0bee4bf134d8bc79132fce6f1.mp4?st=M51NoPXGeZxNd3Vc5YAkJg
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-fTBxydjqSUQ/TkrGD8gxhNI/AAAAAAAAAVk/lFokibPxRpY/s1600/capa.jpg" group-title="FILMES",O Senhor dos Anéis – As Duas Torres
-http://d4.neodrive.co/stream/1T5SPL5SPLB9/75ebe3f16a57a9ef0db9f20dc0953c20.mp4?st=W-I5wgpt1msgbQBE_HAFTQ
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_ShPj6Z7ULsM/TPuw_uMdIZI/AAAAAAAAE1M/yYSmc3R3PU8/s1600/O+Senhor+dos+An%25C3%25A9is+-+O+Retorno+do+Rei.jpg" group-title="FILMES",O Senhor dos Anéis – O Retorno do Rei
-http://d4.neodrive.co/stream/1T5SPL5SPLB9/8f23dc702a8787759fd80d3d96e6bebe.mp4?st=_Zrebk9PyE5yH-BAK7ct0g
-
-#EXTINF:-1 TVG-LOGO="http://4.bp.blogspot.com/-PZdOhmZPGOg/VRsMpkChIfI/AAAAAAAAZwE/Tf6qLWVhlYk/s1600/24.png" GROUP-TITLE="filmes",Cônicos & Cômicos
-http://fs012.dropvideo.com/v/19664988ebf07c05d1cb2e098c5ca7a4.mp4?st=AD8dZLkp7u48xmzISn_ikg
-
-#EXTINF:-1 TVG-LOGO="http://4.bp.blogspot.com/-P3lBszcJgRA/VgTIjUoFyBI/AAAAAAAAPQU/lMEUWr8DfH0/s1600/provaf.png" GROUP-TITLE="filmes",Maze Runner: Prova de Fogo
-http://fs014.dropvideo.com/v/d3c0a0a7785e769f9cdb06220b7a1a63.mp4?st=DoBbucssDKntzpjdOatXRA
-
-#EXTINF:-1 TVG-LOGO="http://2.bp.blogspot.com/-4XDF22rnOEk/Vgs1jjco7NI/AAAAAAAAPV4/HPktZj7TndI/s1600/HOTEL.png" GROUP-TITLE="filmes",Hotel Transilvânia 2 
-http://fs014.dropvideo.com/v/dcf8401246a07a464dd320f53b5b9cc4.mp4?st=cuulYHEfVhquCm6zoVR7-A
-
-#EXTINF:-1 TVG-LOGO="http://4.bp.blogspot.com/-VxGW8JWEcRQ/Vgf8GhXuB5I/AAAAAAAAPOg/aA8ou4G9UwQ/s1600/Papai%252C%2BEu%2Bsou%2BUma%2BZumbi.png" GROUP-TITLE="filmes",Papai Eu sou Uma Zumbi
-http://fs014.dropvideo.com/v/a6dc837d882138718e28797fbc5a46a0.mp4?st=K-lX5GUfVnicNGSIIzepEQ
-
-#EXTINF:-1 TVG-LOGO="http://2.bp.blogspot.com/-Zi8-kdqvjFk/VgtUcpckikI/AAAAAAAAfF0/L37-Xhh2Lzg/s1600/02.png" GROUP-TITLE="filmes", Robin Hood – O Príncipe dos Ladrões
-http://fs014.dropvideo.com/v/070d8a054c8130c57d38a84d5902efb6.mp4?st=jYSSa7A0KEERG3j328Y_pw
-
-#EXTINF:-1 TVG-LOGO="http://2.bp.blogspot.com/-x4gCtkQO9Ec/UqDV7zzmepI/AAAAAAAABpk/FvfEOVMPd2U/s1600/03.png" GROUP-TITLE="filmes",O Guru do Amor
-http://d6.neodrive.co/stream/UV1T1TPLPLTP/a95e8f1b10b9174e9465b55812240dd1.mp4?st=lMoQCLkUT2fXywXjTa0E8w
-
-#EXTINF:-1 TVG-LOGO="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuTy8hBVobdGufn_5JORP15YOiwHXfQztMw0J74h9phSTNDf2S" GROUP-TITLE="filmes",BLack music
-https://www.youtube.com/embed/iBHNgV6_znU?list=PLD317A5FB6BF1DD25
-
-#EXTINF:-1 TVG-LOGO="http://www.cinefilmesonline.net/wp-content/uploads/2015/03/os-dez-mandamentos-2015-record-capitulos-online.jpg" GROUP-TITLE="filmes",139
-http://fs011.dropvideo.com/v/02899abc43850f987dc9eac275d5e347.mp4?st=g2k1UMo4kT0KtIgOfmHn2g
-
-#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="https://images-na.ssl-images-amazon.com/images/M/MV5BMzk0NDdjNWEtMDVkMC00ODdiLTgyMmYtOWM0ZDRjOTU4MjJlXkEyXkFqcGdeQXVyNjM2MDMxMDk@._V1_SX300.jpg",https://docs.google.com/file/d/17bRFwMqvSIDUhfhswdimj-w3myV70WE2
-
-#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="filmes",test
-https://www305.o0-1.com/token=DPEN5Ye3zEe1AEVUZemD1Q/1589338207/2804:14c::/114/d/79/41dbbd9ba0ca1e0b74ad3c245f12679d-480p.mp4
 
 #EXTINF:-1 TVG-LOGO="" GROUP-TITLE="filmes",
 
