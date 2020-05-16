@@ -1,10 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 TVG-LOGO="https://http2.mlstatic.com/dvd-luzes-de-phoenix-lancamento-2018-D_NQ_NP_849600-MLB26929565385_022018-F.jpg" GROUP-TITLE="FILMES",AS LUZES DE PHOENIX
-https://svr3.cloudplayer.online/link/kNSXV23UrwdC40K/720/99e3d98e4d5d0a358b424b1963f1475b/
 
-#EXTINF:-1 TVG-LOGO="https://images-na.ssl-images-amazon.com/images/I/81gutAtINRL._SL1500_.jpg" GROUP-TITLE="MEDIUM",TP02EP01
-http://127.0.0.1:57645/proxy /drive/stream/bXVYZG9ibmFpbHNAZ21haWwuY291 /1AdZiKeS UUeWNt3geBwZxBIOXreGZTeE.mp4
+
+#EXTINF:-1 TVG-LOGO="https://images-na.ssl-images-amazon.com/images/I/81gutAtINRL._SL1500_.jpg" GROUP-TITLE="MEDIUM",TP02EP07
+https://svr3.cloudplayer.online/link/GavauZvQXGFkNM8/360/13baee01d0f3541152e6358bc14ff2f7/
 
 #EXTINF:-1 TVG-LOGO="https://images-na.ssl-images-amazon.com/images/I/81gutAtINRL._SL1500_.jpg" GROUP-TITLE="MEDIUM",TP01EP02
 https://cloudplayer.online/p/fc5CC4IwAAXw7zLoFi2TKL1yaUNL%2F5AKTcTSOVTT2aYLi757o3jR%2BT1%2B7z0BLwmjwAcYkppwyKRxgp4zxQ09fzIM0SirH8lp7oXLw1NVszMIoWO%2F6mF3syRNz9Nb5C2i2Jk6IrjPbWEI%2BkDw6gr84xN1lU2%2BdZpN%2BxhvqI1lB6mQekkL0kQ1kJXt2hnDMyoxPATDybrsgjwee%2BOkxdBvPEqktC8b1dJK%2F6fp%2FDMFW0j5xRsht1WKkn2bp9cb
