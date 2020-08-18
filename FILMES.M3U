@@ -1,4 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/cartoons/ossimpsons.jpg"group-title="novos",minha namorada e uma vampira
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/The_Ring_%282002%29.jpg"group-title="novos",o chamado 1
+https://sv1.gdrives.net/video.mp4?SC9Sd2xUdjN2eElQc1NjQlpTLzFNamRJQlV0TExWNGkvaTFKZTF1Y0FNM2dtbncyalJKNDdIS3ZLcDZzdDhUQVRMdXd0OTlua2JSallHbWx5TVRNb0lQQXptaHcwRnRGdlY4NTRYR1RPRER5TUsrQ3RITk94M25DM2hZMmw4S05BMzdnNDFOVjJpMkxoWkgrdERqWWxBPT06OvWXzFFKzxc4IGDV6NAsUP4=
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51nFzsBhJsL._AC_SX569_.jpg"group-title="novos",o chamado 2
+
+#EXTINF:-1 tvg-logo"group-title="novos",o chamado 3
+
+
+
+
 
 #EXTINF:-1 TVG-LOGO="https://image.freepik.com/vetores-gratis/logotipo-cinema_23-2147503279.jpg?1" GROUP-TITLE="filmes" ,logan
 http://142.44.214.148/xmen/Logan.2017.1080p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mkv
