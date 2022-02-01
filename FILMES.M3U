@@ -137,36 +137,100 @@ https://server40.mokire.xyz/?v=Rm12UzQ1VzlCenhOTG1VZkxWOWhQK1E4SWU0dU9obTBFWDlhV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="canais",REdord sp
 https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Megapix_2015.png/revision/latest?cb=20151120222118" group-title="canais",MEGAPIX
-https://m3u9.ml/a2/hls1/megapix.m3u8?mu3zAQc9HC3GbwJq=HFbLVATyuior1eanafuhCA&3U1G7qaTxrPbalZnEx=1643710963
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="canais",telecinepremium
-https://m3u9.ml/a2/hls1/telecinepremium.m3u8?mu3zAQc9HC3GbwJq=PthWr8AvRaWKlFPAxRSRgQ&3U1G7qaTxrPbalZnEx=1643711369
-#EXTINF:-1 tvg-logo="https://img.favpng.com/17/5/17/space-logo-television-channel-esporte-interativo-png-favpng-VVxR657Qh8Nb2bcMZqQ3QEru0.jpg" group-title="canais",space
-https://m3u9.ml/a2/hls1/space.m3u8?mu3zAQc9HC3GbwJq=-tXdpghXlON6B6QUqIMZgQ&3U1G7qaTxrPbalZnEx=1643711512
 
 #EXTINF:-1 tvg-logo="https://static.sbt.com.br/programas/logos/126.jpg" group-title="canais",sbt
 https://rr3---sn-oxunxg8pjvn-j29ee.googlevideo.com/videoplayback?expire=1643759619&ei=o3P5Yer4F8CI4dUP0NeyuAQ&ip=2804%3A14c%3A3bb4%3Afad%3Ac4f5%3A7fe3%3A5b9%3Ace28&id=ABVQXgr2LW4.3&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=mT&mm=44%2C29&mn=sn-oxunxg8pjvn-j29ee%2Csn-bg07dnr7&ms=lva%2Crdu&mv=m&mvi=3&pl=54&gcr=br&initcwndbps=1051250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=UJ37pbhdfb9ArhOpEKMChRwG&gir=yes&mt=1643737713&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=R_nCH-Bbljr4kA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgchTQBKfvLTb41Lih0KyUTnYIym0TGFdoGUepjlOYuLMCIQCcdvxyhXIciIM72ADUjL6-yLq2Sq9ZSL7svrprxUzaMA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgERjKSv_q-c3JNKHvpfQsgIwzKfGdMwkM148xZa-rx1sCIAOOH4BPm1tmhK0EKAEtKOMhmqK1ivL-d0snXetLccsP&alr=yes&cpn=m7lqO2xl78mkOw5-&cver=1.20220130.00.00&sq=4049544&rn=5&rbuf=9903
+#EXTINF:-1 tvg-logo=https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8e2460502f204b225c89d644e88153a8.webp" group-title="canais",anime tv
+https://stmv1.srvif.com/animetv/animetv/chunklist_w660845560.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="canais",Tv Cine Ao Vivo
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w357363740.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fc1a086ab2f117cc51882b40c75c0818.webp" group-title="canais",Tv Séries - Agente 86
+https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w1126794373.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bc9a8a02d0a188153981f64b4bc1abb5.webp" group-title="canais",Animax Brasil Ao Vivo
+https://stmv1.samcast.com.br/muriloevangelistadearaujo2973/muriloevangelistadearaujo2973/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0bbf68ab6be6c58903b3f0737ce6eed5.webp" group-title="canais",Tv Séries 5 - Guerra, Sombra e Água Fresca Ao Vivo
+https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w268006088.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fbd920c88d356accad12dc99f7c0faa8.webp" group-title="canais",Eu, a Patroa e as Crianças - Dublado Ao Vivo
+https://rr3---sn-oxunxg8pjvn-j29ee.googlevideo.com/videoplayback?expire=1643763429&ei=hYL5YaudOcX-wATCko74DQ&ip=2804%3A14c%3A3bb4%3Afad%3Ac4f5%3A7fe3%3A5b9%3Ace28&id=o-AE3mJjsXePpFHvCQVqjFUnhhZt8TcJzNE4CZ1MMGBGNy&itag=397&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278%2C394%2C395%2C396%2C397%2C398%2C399&source=youtube&requiressl=yes&mh=i6&mm=31%2C29&mn=sn-oxunxg8pjvn-j29ee%2Csn-bg0ezn7y&ms=au%2Crdu&mv=m&mvi=3&pl=54&gcr=br&initcwndbps=1001250&vprv=1&mime=video%2Fmp4&ns=gMX_Off9vKOHDkUiBUAmN4kG&gir=yes&clen=66959470&dur=1267.432&lmt=1630052500182390&mt=1643741579&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&txp=1532434&n=dd2RXtsZ5nm8gg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANW1Mm2-Ugq2DsdaVdxbTt-jikxZuSoj8tSRuSd2STsKAiBVpfLG7hYB38rZhDit5APFxhjlWpDp2cnf6EzZe6PQFg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgPF5qemIiHkMOMOEKxDdmQ-tq7YxWxKABzuBFxhYsMTwCIQDJPGaHEP25-DKcidwIaD_dN7Cc5_uOkuJfOFH3-df_pQ%3D%3D&alr=yes&cpn=BxBBCY1_bgy3ikK1&cver=1.20220130.00.00&rn=1&rbuf=0
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/iuuqgcUCZW8/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBs0Cgdj_HS6xgPPevcGMPBnyBbTA&days_since_epoch=19024" group-title="canais",	Filmes - Clássicos - YouTube
+https://rr3---sn-oxunxg8pjvn-j29ee.googlevideo.com/videoplayback?expire=1643763529&ei=6YL5YYnBKcj51sQPmvu_gA8&ip=2804%3A14c%3A3bb4%3Afad%3Ac4f5%3A7fe3%3A5b9%3Ace28&id=o-AGJ0Ja8lBPpJuU1QxBEbse_jeHeAeYD6iaowuLeR7EEF&itag=398&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278%2C394%2C395%2C396%2C397%2C398&source=youtube&requiressl=yes&mh=Wf&mm=31%2C29&mn=sn-oxunxg8pjvn-j29ee%2Csn-bg0ezn7e&ms=au%2Crdu&mv=m&mvi=3&pl=54&initcwndbps=1001250&vprv=1&mime=video%2Fmp4&ns=FBbGE77D0VmGNtMEQKMghcEG&gir=yes&clen=297057127&dur=7642.759&lmt=1635317148459450&mt=1643741579&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5532434&n=hZ_8BfybR2Ny-g&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgNND84Q04pW6tOmLh-Vpsj2GOBZx1R_EaLGnXAefVc8kCIQCo4iNqcczMnHImtf_JCvfsuCpeTHqsjMLFDbbIalC9CQ%3D%3D&alr=yes&sig=AOq0QJ8wRQIgeEOHQ0SeZ9vRx1Wbyclds0aIllTzYA93teUEiZ1j-MQCIQC9B7wrvHFVzjfTGwSa4HLo5ehFgAMu9Udp-1W02m4EKg%3D%3D&cpn=3OKYqMy8Y-28aMr0&cver=2.20220201.01.00&rn=1&rbuf=0&bbs=-erqIp7oNgRqRfW2jLab4oEEQ2-s7B8YKvUfgBhkEA5c29-BlRHKdyl51gnEGicYOk9YPN4nNhHUfUarB3K_LLjMdysFFsLVOgvREnUqQUlPgeXMDaeDqkgJcUMDLZqTLoNKl7D0bA-MwFRVbxo79y70n7QRBtdvjfXnLmHqNPwA0gDD7hQ05BN0ENaiByViI17wdT7m
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/34848ed178e03783640b8cc7a653b3c9.webp" group-title="canais",Desenhos Clássicos TV Ao Vivo
+https://rr2---sn-oxunxg8pjvn-j29sl.googlevideo.com/videoplayback?expire=1643763668&ei=dIP5YfCmCrH01sQPzs-WuAY&ip=2804%3A14c%3A3bb4%3Afad%3Ac4f5%3A7fe3%3A5b9%3Ace28&id=o-AMp0hJr0Gd4mxYd3Lig7j30lUQY0E2peacvp0RJ5bvdT&itag=396&aitags=133%2C134%2C160%2C242%2C243%2C278%2C394%2C395%2C396&source=youtube&requiressl=yes&mh=GC&mm=31%2C29&mn=sn-oxunxg8pjvn-j29sl%2Csn-bg07dnsl&ms=au%2Crdu&mv=m&mvi=2&pl=54&initcwndbps=1027500&vprv=1&mime=video%2Fmp4&ns=jdq3eomLj8aWAEi_R5EXsfwG&gir=yes&clen=13797440&dur=502.201&lmt=1631305398035020&mt=1643741579&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&txp=5436434&n=fXeKapX0jtNxAg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgY8K5RUypvO7aQ4waAw5-0DyRS9h5gwqadO_eHhPrY-wCIQCxEFc7GTAzlR_qZDsyDwQS_OPFEZ9kjSPeSPSjQpJ3Kg%3D%3D&alr=yes&sig=AOq0QJ8wRQIhAP_N0jqbEm7JYDkt9FAjbK30Zao_BOophDX4acrmqu1lAiA8R41TzNt_KozteVJddU1tdrob_NA8ubrmM7cqRSo0wg%3D%3D&cpn=wwef59kyNdwQNMgY&cver=1.20220130.00.00&rn=1&rbuf=0&altitags=395%2C394
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="canais",Vintage Tv Ao Vivo
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w456350940.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/64621ab391135116d01232f74cec38dc.webp" group-title="canais",O Novo Show do Pica Pau Ao Vivo
+https://rr2---sn-oxunxg8pjvn-j29sl.googlevideo.com/videoplayback?expire=1643763797&ei=9YP5YYTwDPru1sQP2PK4iA0&ip=2804%3A14c%3A3bb4%3Afad%3Ac4f5%3A7fe3%3A5b9%3Ace28&id=o-AMr05nnNBYzowufr3FsYSAhpMQ2r946pxKYyyxS29Orf&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=Bd&mm=31%2C29&mn=sn-oxunxg8pjvn-j29sl%2Csn-bg0ezn7y&ms=au%2Crdu&mv=m&mvi=2&pl=54&initcwndbps=1048750&vprv=1&mime=video%2Fwebm&ns=cGBk9ltgug2wkMLABT3swZYG&gir=yes&clen=39664531&dur=845.178&lmt=1641605666202499&mt=1643741832&fvip=2&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&txp=4437432&n=aTLnCQlgVfYxMA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAM9kqg_wpMuT1YirSMnCqjdOkR0WgP_E-zL-lx1FR12FAiB-SU7BnA91MHoEyvGMq1kGEKFS1Muwk4PWwuSsxSEJrQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAJtH9QkTgFTtqnkaOJZsFpQyCagGFx1IJZvjgE_ANK-dAiBufDe3c6vx8BIy12saMTTe4u4xq3kXj8tQsHtXTeaW-Q%3D%3D&alr=yes&cpn=YOGVItJXdTpaHEqD&cver=1.20220130.00.00&rn=1&rbuf=0&altitags=243%2C242
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7b0be1e3ddbc37ae133fd52e75a94fe0.webp" group-title="canais",Retro Cartoon Ao Vivo
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w974590452.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1ef59e88801387f71231a6b12a5c0db6.webp" group-title="canais",TV Séries Ao Vivo
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w603207477.m3u8
+#EXTINF:-1 tvg-logo="" group-title="canais",
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="canais",Jetsons Tv Ao Vivo
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w604058021.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d6d738376d63207eacd6a71322895a60.webp" group-title="canais",TV Chaves Ao Vivo
+https://rr1---sn-oxunxg8pjvn-j29sl.googlevideo.com/videoplayback?expire=1643764140&ei=TIX5YabJGdPw1sQPta2zqA8&ip=2804%3A14c%3A3bb4%3Afad%3Ac4f5%3A7fe3%3A5b9%3Ace28&id=o-AJdeViq6Zs-VEWrlaRxBEal3wvNrS-M1mXOfm8FfQxe5&itag=243&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mh=1d&mm=31%2C29&mn=sn-oxunxg8pjvn-j29sl%2Csn-bg07dnkd&ms=au%2Crdu&mv=m&mvi=1&pl=54&gcr=br&initcwndbps=1118750&vprv=1&mime=video%2Fwebm&ns=iHaRfUmWGWznOm7DsRqWhyAG&gir=yes&clen=197705786&dur=4864.333&lmt=1643555324784446&mt=1643742300&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&txp=5437434&n=4HkTmrIThD9chA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgGoS3EOij6TlFO13dTbO9lwdRF6fZ9F59qNRrBdaQ_awCIQDqKLIRAmbUEKT3QtSevI_GeH4-WE-1jjfwJV-FcSbAgQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAIXJR9ldnIYya4Sew9xa2odm_25KQ_ZLuXhSfl9Zw9eBAiAJ8BqmlbBWKeq_gsaQw9t5zsv2zWZnFhfeAd-_yQyiZg%3D%3D&alr=yes&cpn=8vFg7xmSSUKkAq58&cver=1.20220130.00.00&rn=1&rbuf=0&altitags=242%2C278
+#EXTINF:-1 tvg-logo="" group-title="canais",
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/deaee7a4d7ef1c38e84da23cfeee16ff.webp" group-title="canais",Retro Cartoon 2 Ao Vivo - CXTv
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w318801470.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://stmv1.srvif.com/retrotv/retrotv/chunklist_w318801470.m3u8" group-title="canais",Bons Tempos Ao Vivo - CXTv
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w1550275245.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="canais",
+
+#EXTINF:-1 tvg-logo="" group-title="canais",
+
+#EXTINF:-1 tvg-logo="" group-title="canais",
+
+
+#EXTINF:-1 tvg-logo="" group-title="canais",
+
+#EXTINF:-1 tvg-logo="" group-title="canais",
+
+#EXTINF:-1 tvg-logo="" group-title="canais",
+
+#EXTINF:-1 tvg-logo="" group-title="canais",
+#EXTINF:-1 tvg-logo="" group-title="canais",
+#EXTINF:-1 tvg-logo="" group-title="canais",
+#EXTINF:-1 tvg-logo="" group-title="canais",
+#EXTINF:-1 tvg-logo="" group-title="canais",
+#EXTINF:-1 tvg-logo="" group-title="canais",
+#EXTINF:-1 tvg-logo="" group-title="canais",
+#EXTINF:-1 tvg-logo="" group-title="canais",
+#EXTINF:-1 tvg-logo="" group-title="canais",
+#EXTINF:-1 tvg-logo="" group-title="canais",
+#EXTINF:-1 tvg-logo="" group-title="canais",
+#EXTINF:-1 tvg-logo="" group-title="canais",
 
 #EXTINF:-1 tvg-logo="https://topflix.vc/images/poster/330490/13153220.jpg" group-title="Box",Harry Potter e a Pedra Filosofal 2001
 https://download1863.mediafire.com/nqak1ancjpcg/pxy5ko69rnvyc20/2f3d0c5aad743ebe125ac2ca52531a45.mp4
 #EXTINF:-1 tvg-logo="https://topflix.vc/images/poster/330490/14627219.jpg" group-title="Box",Harry Potter e a Câmara Secreta 2002
-https://download2324.mediafire.com/bjgvam2ftgeg/sayesxisg5tou5e/bb1c12c888e3dbe86f307ab50655df09.mp4
+https://download2324.mediafire.com/duj9rsrt6ezg/sayesxisg5tou5e/bb1c12c888e3dbe86f307ab50655df09.mp4
+
 #EXTINF:-1 tvg-logo="https://topflix.vc/images/poster/330490/364140456.jpg" group-title="Box",Harry Potter e o Prisioneiro de Azkaban 2004
-https://download2324.mediafire.com/0ytsd5vgz8xg/vo9imv265tr6mrl/23be4ff9fbcf167286862b32900565d9.mp4
+https://download2324.mediafire.com/e1b7d1r7n4bg/vo9imv265tr6mrl/23be4ff9fbcf167286862b32900565d9.mp4
 #EXTINF:-1 tvg-logo="https://topflix.vc/images/poster/330490/129366243.jpg" group-title="Box",Harry Potter e o Cálice de Fogo 2005
-https://download2391.mediafire.com/ftpzanuqcotg/sclymo65i8xfzhe/975582fc78a8cbe009aab707197f903e.mp4
+https://download2324.mediafire.com/e1b7d1r7n4bg/vo9imv265tr6mrl/23be4ff9fbcf167286862b32900565d9.mp4
 #EXTINF:-1 tvg-logo="https://topflix.vc/images/poster/330490/203121713.jpg" group-title="Box",Harry Potter e a Ordem da Fênix 2007
-https://download2333.mediafire.com/b0ygh5dbgleg/1v3jwm0gnycfmje/8cfba90aeb1d5d50ddaaf71b8b2490aa.mp4
+https://download2388.mediafire.com/zk7y322fmngg/1v3jwm0gnycfmje/8cfba90aeb1d5d50ddaaf71b8b2490aa.mp4
+
 #EXTINF:-1 tvg-logo="https://topflix.vc/images/poster/330490/199304562.jpg" group-title="Box",Harry Potter e o Enigma do Príncipe 2009
-https://download2336.mediafire.com/23nz2ss4p4qg/dt947g8shvo0fe7/cd89d90a9d76053dfc9592f85adbc707.mp4
+https://download2336.mediafire.com/oj5328sjp2ug/dt947g8shvo0fe7/cd89d90a9d76053dfc9592f85adbc707.mp4
+
 #EXTINF:-1 tvg-logo="https://topflix.vc/images/poster/330490/1324761.jpg" group-title="Box",Harry Potter e as Relíquias da Morte: Parte 1 2010
-https://download2390.mediafire.com/9ir80v16heqg/l9eu4kkscjexeug/c205f1865be786c551ba0ab8143d6f8d.mp4
+https://download2390.mediafire.com/37lll9kf3syg/l9eu4kkscjexeug/c205f1865be786c551ba0ab8143d6f8d.mp4
+
 #EXTINF:-1 tvg-logo="https://topflix.vc/images/poster/330490/413532799.jpg" group-title="Box",Harry Potter e as Relíquias da Morte: Parte 2 2011
-https://download2338.mediafire.com/b7kbqy1l0fog/w0jhhhbkbl2rwto/f17e40af87038c2d711003153b815de5.mp4
+https://download2338.mediafire.com/hh2uma2o6vtg/w0jhhhbkbl2rwto/f17e40af87038c2d711003153b815de5.mp4
+
 #EXTINF:-1 tvg-logo="https://topflix.vc/images/poster/330490/366480367.jpg" group-title="Box",Hellboy 2004
 https://download2390.mediafire.com/s97zlai11fhg/u3zdzaagq3m6u8k/404e4b170f2b93ab658ea5cc5ca71fd5.mp4
 #EXTINF:-1 tvg-logo="https://topflix.vc/images/poster/330490/160177617.jpg" group-title="Box",Hellboy 2 - O Exército Dourado 2008
@@ -179,13 +243,13 @@ https://download2327.mediafire.com/v928j1y5ameg/8wehbntul9ev6io/2ca067dfb2b1be4e
 https://download2390.mediafire.com/hjidwquxwdag/kmprq6b450mnqhe/8e8c6590d4a61765771d100b0c21a5af.mp4
 
 #EXTINF:-1 tvg-logo="https://topflix.vc/images/poster/330490/258269558.jpg" group-title="Box",O Senhor dos Anéis: A Sociedade do Anel VR EXT - 2001
-https://www.googleapis.com/drive/v3/files/1WF8M8GEGUPQMK-qL5F_6boKmJiJB_y8p?alt=mediakey=AIzaSyBlMS8sqJKNozzJqyHU4_LqQNPuSMzoJ40
+https://rr3---sn-bg07dnks.c.drive.google.com/videoplayback?expire=1643757352&ei=6Ib5YdH0K5KAkAS0w6HQDw&ip=2804:14c:3bb4:fad:c4f5:7fe3:5b9:ce28&cp=QVRJVUhfVlNTQ1hPOkMwcGwwZEJZdFc2cnctQmZBSkhTc2FPYWdYYjhEQ0ZtRDZFQmxmUFA2R04&id=79f0138bfdf1d9c1&itag=18&source=webdrive&requiressl=yes&mh=zt&mm=32&mn=sn-bg07dnks&ms=su&mv=u&mvi=3&pl=54&ttl=transient&susc=dr&driveid=133SP5vzJDRcbIDZWrf7OqftZyYK0B9J0&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=13691.669&lmt=1643715034836221&mt=1643742298&txp=0011224&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRAIgXXkpy2mIThJDz0XC-3O5tcJ94uu0QV4mU4tb28ipELcCIHN8_g463nxCsWDSj94WaWlNuKANR_iQ-ZdQziMURsFr&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhALvjDPYiWTqH_TR6dxRFQbWeGOFfsF90duRkQ4JUzh_FAiA7HzGTKoc0irwkgjT2pLcHkwhOuoNf0rWGvizBXjE6ww==&cpn=1KYQKewXjE41p7YF&c=WEB_EMBEDDED_PLAYER&cver=1.20220130.00.00
+
 #EXTINF:-1 tvg-logo="https://topflix.vc/images/poster/330490/26722111.jpg" group-title="Box",O Senhor dos Anéis: As Duas Torres 2002
 https://download2347.mediafire.com/c76jmchju8xg/jjn7cmoc00ixtis/5fcf74c1e77546c5d7150d08cc5a8ae8.mp4
 
 #EXTINF:-1 tvg-logo="https://topflix.vc/images/poster/330490/26722111.jpg" group-title="Box",O Senhor dos Anéis: As Duas Torres VR EXT
-https://www.googleapis.com/drive/v3/files/133SP5vzJDRcbIDZWrf7OqftZyYK0B9J0?alt=mediakey=AIzaSyBlMS8sqJKNozzJqyHU4_LqQNPuSMzoJ40
-
+https://rr3---sn-bg07dnsr.c.drive.google.com/videoplayback?expire=1643757196&ei=TIb5YavBAsGksALx0JuoBA&ip=2804:14c:3bb4:fad:c4f5:7fe3:5b9:ce28&cp=QVRJVUhfVlFXR1hPOkMwcGw4aEZZdFc2cnctWmpFSkhTc2FPYWVCZjhEQ0ZtRDZDRnBmUFA2R04&id=427ea8e2ad1b5a75&itag=22&source=webdrive&requiressl=yes&mh=mo&mm=32&mn=sn-bg07dnsr&ms=su&mv=u&mvi=3&pl=54&ttl=transient&susc=dr&driveid=1WF8M8GEGUPQMK-qL5F_6boKmJiJB_y8p&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=14125.023&lmt=1643722962020728&mt=1643742212&txp=0011224&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIhAOAbpe6vacIgS7pN4P9QkjZ48CZhukswwulIdJ9-l7z3AiArPd2JeZAAj3lVUY5Pcda6TXIVw36JAFpqbhsH8fAjaQ==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAPPYpRbrMuMFqDcpuTbCZPd23sPmY7cP1ExrrBy1LqcyAiBhlYX4GnG2tG0hSMXZ932o2PlHf-AZoSZSIIgooRzADA==&cpn=lo6-eadGFNIB7xm-&c=WEB_EMBEDDED_PLAYER&cver=1.20220130.00.00	
 #EXTINF:-1 tvg-logo="https://topflix.vc/images/poster/330490/352472771.jpg" group-title="Box",O Senhor dos Anéis: O Retorno do Rei 2003
 https://download2264.mediafire.com/dbzjhyhitbhg/u60tpk2ybdizai2/317a903daf0878e738205aa3ef8c8b9b.mp4
 #EXTINF:-1 tvg-logo="https://topflix.vc/images/poster/330490/352472771.jpg" group-title="Box",O Senhor dos Anéis: O Retorno do Rei ext
