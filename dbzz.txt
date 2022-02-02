@@ -1,0 +1,583 @@
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP1  
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/01.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP2  
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/02.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP3  
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/03.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP4  
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/04.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP5  
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/05.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP6  
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/06.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP7  
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/07.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP8  
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/08.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP9  
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/09.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP10 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/10.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP11 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/11.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP12 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/12.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP13 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/13.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP14 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/14.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP15 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/15.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP16 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/16.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP17 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/17.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP18 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/18.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP19 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/19.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP20 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/20.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP21 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/21.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP22 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/22.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP23 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/23.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP24 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/24.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP25 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/25.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP26 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/26.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP27 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/27.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP28 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/28.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP29 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/29.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP30 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/30.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP31 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/31.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP32 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/32.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP33 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/33.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP34 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/34.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP35 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/35.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP36 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/36.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP37 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/37.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP38 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/38.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP39 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/39.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP40 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/40.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP41 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/41.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP42 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/42.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP43 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/43.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP44 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/44.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP45 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/45.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP46 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/46.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP47 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/47.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP48 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/48.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP49 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/49.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP50 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/50.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP51 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/51.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP52 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/52.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP53 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/53.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP54 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/54.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP55 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/55.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP56 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/56.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP57 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/57.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP58 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/58.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP59 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/59.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP60 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/60.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP61 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/61.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP62 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/62.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP63 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/63.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP64 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/64.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP65 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/65.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP66 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/66.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP67 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/67.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP68 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/68.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP69 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/69.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP70 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/70.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP71 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/71.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP72 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/72.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP73 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/73.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP74 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/74.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP75 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/75.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP76 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/76.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP77 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/77.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP78 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/78.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP79 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/79.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP80 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/80.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP81 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/81.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP82 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/82.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP83 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/83.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP84 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/84.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP85 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/85.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP86 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/86.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP87 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/87.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP88 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/88.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP89 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/89.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP90 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/90.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP91 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/91.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP92 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/92.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP93 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/93.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP94 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/94.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP95 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/95.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP96 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/96.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP97 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/97.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP98 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/98.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP99 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/99.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP100
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/100.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP101
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/101.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP102
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/102.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP103
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/103.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP104
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/104.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP105
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/105.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP106
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/106.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP107
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/107.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP108
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/108.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP109
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/109.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP110
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/110.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP111
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/111.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP112
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/112.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP113
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/113.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP114
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/114.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP115
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/115.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP116
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/116.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP117
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/117.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP118
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/118.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP119
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/119.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP120
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/120.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP121
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/121.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP122
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/122.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP123
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/123.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP124
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/124.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP125
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/125.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP126
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/126.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP127
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/127.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP128
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/128.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP129
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/129.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP130
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/130.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP131
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/131.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP132
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/132.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP133
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/133.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP134
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/134.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP135
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/135.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP136
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/136.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP137
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/137.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP138
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/138.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP139
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/139.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP140
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/140.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP141
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/141.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP142
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/142.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP143
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/143.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP144
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/144.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP145
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/145.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP146
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/146.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP147
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/147.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP148
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/148.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP149
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/149.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP150
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/150.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP151
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/151.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP152
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/152.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP153
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/153.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP154
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/154.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP155
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/155.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP156
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/156.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP157
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/157.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP158
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/158.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP159
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/159.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP160
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/160.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP161
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/161.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP162
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/162.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP163
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/163.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP164
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/164.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP165
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/165.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP166
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/166.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP167
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/167.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP168
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/168.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP169
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/169.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP170
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/170.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP171
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/171.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP172
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/172.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP173
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/173.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP174
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/174.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP175
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/175.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP176
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/176.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP177
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/177.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP178
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/178.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP179
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/179.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP180
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/180.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP181
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/181.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP182
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/182.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP183
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/183.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP184
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/184.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP185
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/185.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP186
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/186.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP187
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/187.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP188
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/188.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP189
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/189.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP190
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/190.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP191
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/191.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP192
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/192.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP193
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/193.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP194
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/194.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP195
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/195.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP196
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/196.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP197
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/197.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP198
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/198.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP199
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/199.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP200
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/200.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP201
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/201.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP202
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/202.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP203
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/203.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP204
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/204.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP205
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/205.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP206
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/206.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP207
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/207.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP208
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/208.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP209
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/209.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP210
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/210.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP211
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/211.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP212
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/212.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP213
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/213.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP214
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/214.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP215
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/215.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP216
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/216.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP217
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/217.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP218
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/218.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP219
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/219.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP220
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/220.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP221
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/221.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP222
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/222.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP223
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/223.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP224
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/224.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP225
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/225.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP226
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/226.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP227
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/227.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP228
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/228.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP229
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/229.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP230
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/230.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP231
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/231.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP232
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/232.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP233
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/233.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP234
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/234.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP235
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/235.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP236
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/236.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP237
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/237.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP238
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/238.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP239
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/239.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP240
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/240.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP241
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/241.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP242
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/242.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP243
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/243.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP244
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/244.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP245
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/245.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP246
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/246.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP247
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/247.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP248
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/248.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP249
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/249.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP250
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/250.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP251
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/251.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP252
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/252.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP253
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/253.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP254
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/254.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP255
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/255.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP256
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/256.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP257
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/257.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP258
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/258.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP259
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/259.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP260
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/260.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP261
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/261.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP262
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/262.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP263
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/263.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP264
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/264.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP265
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/265.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP266
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/266.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP267
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/267.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP268
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/268.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP269
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/269.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP270
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/270.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP271
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/271.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP272
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/272.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP273
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/273.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP274
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/274.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP275
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/275.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP276
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/276.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP277
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/277.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP278
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/278.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP279
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/279.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP280
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/280.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP281
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/281.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP282
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/282.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP283
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/283.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP284
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/284.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP285
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/285.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP286
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/286.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP287
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/287.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP288
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/288.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP289
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/289.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP290
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/290.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/6a/Dragon_Ball_Z.png/revision/latest/scale-to-width-down/1000?cb=20210529235351&path-prefix=pt-br" group-title="dragon ball z",EP291
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-z-dublado/291.MP4
