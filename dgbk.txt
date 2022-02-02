@@ -1,0 +1,334 @@
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP1  
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/1.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP2
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/2.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP3  
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/3.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP4  
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/4.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP5  
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/5.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP6  
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/6.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP7  
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/7.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP8  
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/8.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP9  
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/9.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP10 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/10.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP11 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/11.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP12 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/12.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP13 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/13.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP14 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/14.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP15 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/15.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP16 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/16.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP17 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/17.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP18 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/18.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP19 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/19.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP20 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/20.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP21 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/21.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP22 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/22.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP23 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/23.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP24 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/24.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP25 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/25.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP26 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/26.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP27 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/27.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP28 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/28.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP29 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/29.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP30 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/30.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP31 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/31.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP32 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/32.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP33 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/33.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP34 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/34.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP35 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/35.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP36 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/36.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP37 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/37.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP38 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/38.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP39 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/39.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP40 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/40.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP41 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/41.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP42 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/42.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP43 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/43.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP44 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/44.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP45 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/45.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP46 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/46.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP47 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/47.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP48 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/48.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP49 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/49.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP50 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/50.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP51 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/51.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP52 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/52.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP53 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/53.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP54 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/54.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP55 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/55.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP56 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/56.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP57 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/57.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP58 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/58.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP59 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/59.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP60 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/60.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP61 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/61.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP62 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/62.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP63 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/63.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP64 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/64.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP65 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/65.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP66 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/66.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP67 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/67.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP68 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/68.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP69 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/69.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP70 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/70.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP71 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/71.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP72 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/72.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP73 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/73.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP74 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/74.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP75 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/75.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP76 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/76.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP77 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/77.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP78 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/78.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP79 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/79.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP80 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/80.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP81 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/81.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP82 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/82.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP83 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/83.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP84 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/84.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP85 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/85.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP86 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/86.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP87 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/87.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP88 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/88.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP89 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/89.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP90 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/90.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP91 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/91.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP92 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/92.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP93 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/93.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP94 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/94.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP95 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/95.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP96 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/96.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP97 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/97.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP98 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/98.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP99 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/99.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP100
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/100.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP101
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/101.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP102
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/102.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP103
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/103.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP104
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/104.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP105
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/105.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP106
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/106.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP107
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/107.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP108
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/108.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP109
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/109.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP110
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/110.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP111
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/111.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP112
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/112.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP113
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/113.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP114
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/114.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP115
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/115.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP116
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/116.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP117
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/117.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP118
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/118.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP119
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/119.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP120
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/120.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP121
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/121.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP122
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/122.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP123
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/123.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP124
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/124.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP125
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/125.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP126
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/126.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP127
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/127.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP128
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/128.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP129
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/129.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP130
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/130.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP131
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/131.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP132
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/132.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP133
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/133.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP134
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/134.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP135
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/135.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP136
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/136.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP137
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/137.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP138
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/138.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP139
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/139.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP140
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/140.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP141
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/141.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP142
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/142.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP143
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/143.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP144
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/144.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP145
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/145.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP146
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/146.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP147
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/147.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP148
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/148.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP149
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/149.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP150
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/150.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP151
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/151.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP152
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/152.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP153
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/153.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP154
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/154.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP155
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/155.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP156
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/156.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP157
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/157.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP158
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/158.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP159
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/159.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP160
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/160.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP161
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/161.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP162
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/162.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP163
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/163.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP164
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/164.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP165
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/165.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP166
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/166.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/5c/Dragon-Ball-Z-Kai-1170x720.png/revision/latest?cb=20210529002123&path-prefix=pt-br" group-title="dragon ball kai",EP167
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-kai-dublado/167.MP4
