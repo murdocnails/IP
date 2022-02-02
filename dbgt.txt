@@ -1,0 +1,122 @@
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP1
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/1.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP2 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/2.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP3 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/3.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP4 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/4.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP5 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/5.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP6 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/6.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP7 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/7.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP8 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/8.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP9 
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/9.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP10
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/10.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP11
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/11.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP12
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/12.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP13
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/13.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP14
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/14.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP15
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/15.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP16
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/16.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP17
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/17.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP18
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/18.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP19
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/19.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP20
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/20.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP21
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/21.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP22
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/22.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP23
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/23.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP24
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/24.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP25
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/25.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP26
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/26.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP27
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/27.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP28
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/28.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP29
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/29.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP30
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/30.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP31
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/31.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP32
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/32.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP33
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/33.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP34
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/34.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP35
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/35.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP36
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/36.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP37
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/37.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP38
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/38.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP39
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/39.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP40
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/40.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP41
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/41.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP42
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/42.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP43
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/43.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP44
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/44.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP45
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/45.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP46
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/46.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP47
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/47.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP48
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/48.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP49
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/49.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP50
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/50.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP51
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/51.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP52
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/52.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP53
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/53.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP54
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/54.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP55
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/55.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP56
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/56.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP57
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/57.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP58
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/58.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP59
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/59.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP60
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/60.MP4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Dragon-ball-gt.jpg/revision/latest/scale-to-width-down/1000?cb=20200613013335&path-prefix=pt-br" group-title="dragon ball gt ",EP61
+https://ns551909.ip-142-44-137.net/Animes/D/dragon-ball-gt-dublado/61.MP4
