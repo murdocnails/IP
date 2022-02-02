@@ -1,0 +1,262 @@
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP1  
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/1.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP2  
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/2.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP3  
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/3.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP4  
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/4.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP5  
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/5.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP6  
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/6.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP7  
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/7.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP8  
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/8.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP9  
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/9.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP10 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/10.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP11 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/11.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP12 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/12.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP13 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/13.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP14 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/14.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP15 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/15.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP16 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/16.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP17 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/17.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP18 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/18.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP19 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/19.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP20 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/20.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP21 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/21.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP22 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/22.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP23 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/23.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP24 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/24.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP25 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/25.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP26 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/26.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP27 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/27.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP28 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/28.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP29 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/29.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP30 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/30.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP31 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/31.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP32 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/32.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP33 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/33.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP34 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/34.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP35 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/35.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP36 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/36.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP37 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/37.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP38 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/38.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP39 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/39.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP40 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/40.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP41 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/41.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP42 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/42.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP43 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/43.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP44 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/44.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP45 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/45.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP46 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/46.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP47 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/47.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP48 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/48.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP49 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/49.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP50 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/50.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP51 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/51.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP52 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/52.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP53 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/53.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP54 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/54.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP55 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/55.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP56 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/56.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP57 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/57.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP58 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/58.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP59 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/59.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP60 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/60.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP61 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/61.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP62 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/62.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP63 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/63.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP64 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/64.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP65 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/65.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP66 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/66.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP67 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/67.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP68 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/68.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP69 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/69.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP70 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/70.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP71 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/71.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP72 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/72.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP73 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/73.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP74 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/74.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP75 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/75.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP76 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/76.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP77 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/77.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP78 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/78.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP79 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/79.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP80 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/80.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP81 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/81.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP82 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/82.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP83 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/83.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP84 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/84.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP85 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/85.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP86 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/86.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP87 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/87.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP88 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/88.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP89 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/89.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP90 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/90.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP91 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/91.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP92 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/92.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP93 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/93.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP94 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/94.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP95 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/95.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP96 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/96.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP97 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/97.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP98 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/98.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP99 
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/99.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP100
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/100.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP101
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/101.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP102
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/102.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP103
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/103.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP104
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/104.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP105
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/105.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP106
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/106.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP107
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/107.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP108
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/108.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP109
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/109.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP110
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/110.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP111
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/111.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP112
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/112.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP113
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/113.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP114
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/114.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP115
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/115.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP116
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/116.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP117
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/117.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP118
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/118.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP119
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/119.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP120
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/120.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP121
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/121.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP122
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/122.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP123
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/123.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP124
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/124.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP125
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/125.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP126
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/126.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP127
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/127.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP128
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/128.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP129
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/129.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP130
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/130.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="dragon ball z SUPER",EP131
+https://ns546169.ip-51-222-41.net/Animes/D/dragon-ball-super-dublado/131.mp4
