@@ -1,0 +1,80 @@
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+https://rr3---sn-oxunxg8pjvn-j29ee.googlevideo.com/videoplayback?expire=1643857582&ei=Ltb6YcKhL9SWkAP0mYbgBA&ip=2804:14c:3bb4:fad:b8ba:2a6e:50ac:ffa1&id=b92b16c180919cc6&itag=22&source=blogger&mh=ZZ&mm=31&mn=sn-oxunxg8pjvn-j29ee&ms=au&mv=m&mvi=3&pcm2cms=yes&pl=54&susc=bl&mime=video/mp4&vprv=1&dur=525.142&lmt=1551398529249685&mt=1643828457&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIhAKvf4lI5Q-s327lvDQfAl7hAs5ljKVZgi70-0l-F2RBgAiAHvJPsYdDB7_j-vd5KRN-F32b5pmAcgZzLuek8gzVzRg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pcm2cms,pl&lsig=AG3C_xAwRgIhANcmna2t3V81C0JnHMYr2GPpIdYjmLmGEcrOTBqNogbfAiEA2RpdrNAsMBrQBAngde8vzUcP43eoTg6ZwwuBzfmHriQ%3D&cpn=jOA8owiwnJfD1SLG&c=WEB_EMBEDDED_PLAYER&cver=1.20220130.00.00
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+https://rr3---sn-oxunxg8pjvn-j29ee.googlevideo.com/videoplayback?expire=1643857642&ei=atb6YdXmKdHM4QSk25r4Bg&ip=2804:14c:3bb4:fad:b8ba:2a6e:50ac:ffa1&id=c4b137e64ae44916&itag=22&source=blogger&mh=vl&mm=31&mn=sn-oxunxg8pjvn-j29ee&ms=au&mv=m&mvi=3&pcm2cms=yes&pl=54&susc=bl&mime=video/mp4&vprv=1&dur=518.222&lmt=1535498193819480&mt=1643828457&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIhAI4uXB4njtZcmo_mzCSjRNPfP_zOwXY2FiRcH-HrA2biAiAirr1T8pC4LcsMD_fKuHYuMW2Jx2G6mG222yQ5lgxiog%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pcm2cms,pl&lsig=AG3C_xAwRAIgMbtEaa6ZmW1w6diAvl57YjUmTB6K6LW_YwSOPklsoWoCIC2YXMYk_Pw4_SVkXu18wcioB6fAl70cL4ggeIrt9hWY&cpn=BUD_r4Ur8VEEnClU&c=WEB_EMBEDDED_PLAYER&cver=1.20220130.00.00
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+https://rr3---sn-oxunxg8pjvn-j29ee.googlevideo.com/videoplayback?expire=1643857690&ei=mtb6YePoNa7zzLUP24GqwAI&ip=2804:14c:3bb4:fad:b8ba:2a6e:50ac:ffa1&id=90d5a2a76f9431a0&itag=22&source=blogger&mh=zw&mm=31&mn=sn-oxunxg8pjvn-j29ee&ms=au&mv=m&mvi=3&pl=54&susc=bl&mime=video/mp4&vprv=1&dur=524.120&lmt=1537664763314907&mt=1643828693&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgHKEBADTwEht6JlRUx9JesZtnGwFi9wr0ozk8W-Rg5k0CIQCBz7IL79gE1ndYK7Z4xQ2e76_YI0kDcCsP8k3EmmotiQ%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgA7KKFlH7YwcMP9w6VWYKE0ArKF8yLfGuM64_Q4iWxNACIACxeB46jHWkR7EeiLEwlR8xiBRdXVzJE03w1DSbVJJn&cpn=AvUeNMVT7u-2Z9No&c=WEB_EMBEDDED_PLAYER&cver=1.20220130.00.00
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
+
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/07/jYeTfpxS3IzgqKkYCjmdCKwq8PW-185x278.jpg" group-title="dragon ball super heroes",EP
