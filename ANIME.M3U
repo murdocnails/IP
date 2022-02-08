@@ -1,6 +1,8 @@
 #EXTM3U
 #PLAYLISTV: pltv-logo="https://drive.google.com/file/d/16CuTCcO4kC7U4Kdo2xTsWL_k5M-N0d2U/view?usp=drivesdk"
 
+#EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/06/tZ0jXOeYBWPZ0OWzUhTlYvMF7YR-185x278.jpg" group-title="rokudenashi",EP01
+https://fy.v.vrv.co/evs/c0e4b2d3f64aeac7dffcfc49af9ecbb2/assets/5dc7d9f6897a449eb8c163016768b016_3701611.mp4?Expires=1644191131&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9meS52LnZydi5jby9ldnMvYzBlNGIyZDNmNjRhZWFjN2RmZmNmYzQ5YWY5ZWNiYjIvYXNzZXRzLzVkYzdkOWY2ODk3YTQ0OWViOGMxNjMwMTY3NjhiMDE2XzM3MDE2MTEubXA0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjQ0MTkxMTMxfX19XX0=&Signature=C8keQk08OXSplwE6We3QdLZO8JVxIPirQx/OmKI+RIQ=&Key-Pair-Id=APKAJMWSQ5S7ZB3MF5VA
 #EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/06/tZ0jXOeYBWPZ0OWzUhTlYvMF7YR-185x278.jpg" group-title="dragon ball classico",EP01
 https://ns545442.ip-66-70-176.net/Uploads/Animes/D/dragon-ball-dublado-1-temporada-dublado/01.MP4
 #EXTINF:-1 tvg-logo="https://animesbr.biz/wp-content/uploads/2019/06/tZ0jXOeYBWPZ0OWzUhTlYvMF7YR-185x278.jpg" group-title="dragon ball classico",EP02
